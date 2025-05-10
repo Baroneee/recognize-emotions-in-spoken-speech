@@ -1,0 +1,10 @@
+{
+    "RNN_Pretrained=True": {
+        "Accuracy": 0.315,
+        "F1-Score": 0.1596958174904943
+    },
+    "RNN_Pretrained=False": {
+        "Accuracy": 0.355,
+        "F1-Score": 0.17466174661746617
+    }
+}
